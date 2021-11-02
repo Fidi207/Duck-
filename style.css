@@ -1,0 +1,34 @@
+body{
+    background-size: cover;
+    background-position: center;
+}
+
+.hding{
+    width: 80%;
+    font-size: 22px;
+    top: 0;
+}
+
+#butun{
+    font-size: 18px;
+}
+
+#num, #status{
+    font-size: 16px;
+}
+.foot{
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: black;
+    line-height: 30px;
+    color: white;
+}
+
+canvas{
+    border: 15px ridged red;
+    box-shadow: 0px 0px 40px red;
+    margin-top: 80px;
+    border-radius: 15px;
+}
